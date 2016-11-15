@@ -11,6 +11,7 @@ using namespace std;
 
 int main(int argc, char **argv) {
 	try {
+		FreeConsole();
 		
 		boost::asio::io_service io;
 		tcp::resolver rs(io);
