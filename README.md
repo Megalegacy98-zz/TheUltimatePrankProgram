@@ -14,7 +14,7 @@ The Ultimate Prank Program is a fun prank tool that lets you connect to a comput
 - Turn off monitor in the background for a certain period of time
 - Send keys
 
-We do accept suggestionss.
+We do accept suggestions.
 
 # DISCLAIMER
 I don't accept pull requests/suggestions for things that go too far! (screenshots of screen/webcam, recording voice, keylogger, etc)
